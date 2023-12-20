@@ -1,0 +1,15 @@
+1.Local sites -> Wordpress Tool.
+2.<?php ?> -> for any formatting in wordpress.
+3.function -> php functions to call out.
+4.$name -> variable to call out in function. 
+5.echo -> use to call out any variable in php.
+6.array -> collection of variables (based on 0 format).
+7.while -> loop posts.
+8.<?php bloginfo('name');?> -> To display site title from the dashboard site.
+9.<?php bloginfo('description');?> -> To display the tagline placed i dashboard site.
+10.while(have_posts()){the_pots();} -> To display the blog posts on loop at the home page.
+11.the_permalink(); -> create a link for the post.
+12.the_title(); -> to display the title of the post at home page.
+13.the_content(); -> to display the content of the post at home page.
+14. single.php -> for the single post (a new file).
+15. page.php -> for the page from the dashboard site!.
