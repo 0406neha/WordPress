@@ -23,3 +23,4 @@
 			?>
 17.Header(header.php) -> get_header(); 
 18.Footer(footer.php) -> get_footer(); 
+19.<?php wp_head(); ?> -> Wordpress header!!!!!
