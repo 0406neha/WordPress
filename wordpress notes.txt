@@ -52,4 +52,13 @@
 
 22.Links -> <a href="<?php echo site_url('/privacy-policy') ?>">Privacy</a>
 
-23.
+23.Post ID ->  <?php
+   	 	echo get_the_ID();
+   		?>
+
+24.Parent Post ID ->     echo wp_get_post_parent_id(get_the_ID());
+
+25.Identifier to parent and child post ->  
+			<?php if (wp_get_post_parent_id(get_the_ID())) { ?>
+
+26.
