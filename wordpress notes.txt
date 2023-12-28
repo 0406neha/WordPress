@@ -61,4 +61,5 @@
 25.Identifier to parent and child post ->  
 			<?php if (wp_get_post_parent_id(get_the_ID())) { ?>
 
-26.
+26.Official website with wealth of information -> 	https://codex.wordpress.org/
+							https://developer.wordpress.org/
